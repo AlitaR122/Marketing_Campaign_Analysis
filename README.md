@@ -65,3 +65,9 @@ Tujuan utama project ini adalah untuk menunjukkan bagaimana seorang **Data Analy
 - Implementasikan otomatisasi laporan harian untuk efisiensi reporting.
 
 ---
+---
+## ⚠️ Catatan Penting
+GitHub kadang menampilkan error **"Invalid Notebook"** saat mem-preview file `.ipynb` berukuran besar atau berisi output interaktif.  
+
+➡️ **Solusi:**  
+- Download notebook dari repo ini, lalu buka di **Jupyter Notebook** atau **Google Colab** untuk melihat isi lengkapnya.  
