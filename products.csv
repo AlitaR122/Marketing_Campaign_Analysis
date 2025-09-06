@@ -1,0 +1,19 @@
+product_id,product_name,category,unit_cost,unit_price,launch_date
+1001,Kopi Arabica 200g,Beverage,28000,38700,2023-08-24
+1002,Kopi Robusta 200g,Beverage,24000,38000,2023-12-11
+1003,Teh Hijau 25s,Beverage,12000,18100,2023-02-18
+1004,Teh Hitam 25s,Beverage,12000,17500,2023-02-28
+1005,Susu Bubuk 500g,Dairy,45000,58700,2023-06-19
+1006,Cokelat Bubuk 250g,Grocery,22000,28700,2023-07-07
+1007,Biskuit Kacang 150g,Snack,9000,11400,2023-09-28
+1008,Biskuit Cokelat 150g,Snack,9000,14000,2023-07-09
+1009,Madu Murni 250ml,Grocery,45000,65700,2023-06-24
+1010,Granola 300g,Grocery,38000,56900,2023-02-20
+1011,Oatmeal 1kg,Grocery,35000,44000,2023-12-30
+1012,Sereal Madu 300g,Grocery,27000,42900,2023-02-24
+1013,Minuman Energi 250ml,Beverage,6000,9200,2023-09-01
+1014,Air Mineral 600ml,Beverage,2000,2600,2023-11-16
+1015,Jus Jeruk 250ml,Beverage,7000,9200,2023-05-11
+1016,Jus Apel 250ml,Beverage,7000,9200,2023-11-03
+1017,Keripik Kentang 120g,Snack,11000,14900,2023-05-15
+1018,Keripik Singkong 120g,Snack,9000,12900,2023-01-21
